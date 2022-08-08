@@ -1,4 +1,4 @@
-package vjezbanje01;
+package vjezbanje;
 
 public class ASCII {
 
