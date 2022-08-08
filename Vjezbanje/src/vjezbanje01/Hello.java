@@ -1,4 +1,4 @@
-package vjezbanje;
+package vjezbanje01;
 
 public class Hello {
 
