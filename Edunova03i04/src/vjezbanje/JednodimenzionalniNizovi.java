@@ -32,7 +32,7 @@ public class JednodimenzionalniNizovi {
 		System.out.println(",");
 		System.out.println(vrijednosti[vrijednosti.length-1]);
 		
+		System.out.println(Arrays.toString(vrijednosti));
 		
-	}
-
+		}
 }
